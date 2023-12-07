@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mattr\\Documents\\GIK299\\Objektorienterad programmering\\Github\\Arvidsson_Mattias_GIK299\\Arvidsson_Mattias_Labration1\\Arvidsson_Mattias_Labration1\\Arvidsson_Mattias_Laboration1.csproj",
+      "projectUniqueName": "C:\\Users\\Mattr\\Documents\\GIK299\\Objektorienterad programmering\\Github\\Laboration1\\Arvidsson_Mattias_Labration1\\Arvidsson_Mattias_Laboration1.csproj",
       "projectName": "Arvidsson_Mattias_Laboration1",
-      "projectPath": "C:\\Users\\Mattr\\Documents\\GIK299\\Objektorienterad programmering\\Github\\Arvidsson_Mattias_GIK299\\Arvidsson_Mattias_Labration1\\Arvidsson_Mattias_Labration1\\Arvidsson_Mattias_Laboration1.csproj",
+      "projectPath": "C:\\Users\\Mattr\\Documents\\GIK299\\Objektorienterad programmering\\Github\\Laboration1\\Arvidsson_Mattias_Labration1\\Arvidsson_Mattias_Laboration1.csproj",
       "packagesPath": "C:\\Users\\Mattr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mattr\\Documents\\GIK299\\Objektorienterad programmering\\Github\\Arvidsson_Mattias_GIK299\\Arvidsson_Mattias_Labration1\\Arvidsson_Mattias_Labration1\\obj\\",
+      "outputPath": "C:\\Users\\Mattr\\Documents\\GIK299\\Objektorienterad programmering\\Github\\Laboration1\\Arvidsson_Mattias_Labration1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mattr\\AppData\\Roaming\\NuGet\\NuGet.Config",

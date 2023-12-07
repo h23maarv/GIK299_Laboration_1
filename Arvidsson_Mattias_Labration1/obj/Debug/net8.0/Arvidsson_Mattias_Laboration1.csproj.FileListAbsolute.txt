@@ -1,0 +1,15 @@
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\bin\Debug\net8.0\Arvidsson_Mattias_Laboration1.exe
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\bin\Debug\net8.0\Arvidsson_Mattias_Laboration1.deps.json
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\bin\Debug\net8.0\Arvidsson_Mattias_Laboration1.runtimeconfig.json
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\bin\Debug\net8.0\Arvidsson_Mattias_Laboration1.dll
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\bin\Debug\net8.0\Arvidsson_Mattias_Laboration1.pdb
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\obj\Debug\net8.0\Arvidsson_Mattias_Laboration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\obj\Debug\net8.0\Arvidsson_Mattias_Laboration1.AssemblyInfoInputs.cache
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\obj\Debug\net8.0\Arvidsson_Mattias_Laboration1.AssemblyInfo.cs
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\obj\Debug\net8.0\Arvidsson_Mattias_Laboration1.csproj.CoreCompileInputs.cache
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\obj\Debug\net8.0\Arvidsson_Mattias_Laboration1.sourcelink.json
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\obj\Debug\net8.0\Arvidsson_Mattias_Laboration1.dll
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\obj\Debug\net8.0\refint\Arvidsson_Mattias_Laboration1.dll
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\obj\Debug\net8.0\Arvidsson_Mattias_Laboration1.pdb
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\obj\Debug\net8.0\Arvidsson_Mattias_Laboration1.genruntimeconfig.cache
+C:\Users\Mattr\Documents\GIK299\Objektorienterad programmering\Github\Laboration1\Arvidsson_Mattias_Labration1\obj\Debug\net8.0\ref\Arvidsson_Mattias_Laboration1.dll
