@@ -33,7 +33,7 @@
             Console.WriteLine("Gemensamt är alla " + ageSum + " år gamla.");
 
             // Beräknar genomsnittsåldern och skriver ut den med två decimaler.
-            double averageAge = (double)ageSum / ageofRelativs.Length;
+            double averageAge = (double) ageSum / ageofRelativs.Length;
             Console.WriteLine("Genomsnitt ålder är: {0:0.00}.", averageAge);
 
         }
